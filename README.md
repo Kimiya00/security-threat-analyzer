@@ -22,7 +22,7 @@ An LLM-powered application that automates vulnerability analysis by integrating 
 ![Interactive Visualizations](screenshots/visualization.png)
 *CVSS metrics dashboard with gauge, breakdown chart, and timeline*
 
-![AI Analysis Results](screenshots/analysis.png)
+![AI Analysis Results](/screenshots/analysis.png)
 *GPT-4 generated threat assessment with role-specific summaries*
 
 ---
