@@ -1,0 +1,8 @@
+{
+  "cve_id": "CVE-2024-21762",
+  "description": "Out-of-bounds write vulnerability in Fortinet FortiOS allowing an unauthenticated attacker to execute arbitrary code via specially crafted HTTP requests.",
+  "cvss_score": 9.6,
+  "severity": "Critical",
+  "published_date": "2024-02-08",
+  "notes": "This is sample data for testing. Real CVE data should be fetched from NVD API."
+}
