@@ -25,4 +25,4 @@ Thumbs.db
 
 # Data
 data/*.json
-!data/sample_cve.jsonscreenshots/
+!data/sample_cve.json
