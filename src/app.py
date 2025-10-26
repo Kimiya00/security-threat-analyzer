@@ -15,7 +15,6 @@ from utils.visualizations import (
 # Page configuration
 st.set_page_config(
     page_title="Security Threat Analyzer",
-    page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
