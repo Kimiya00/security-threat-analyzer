@@ -1,3 +1,14 @@
+---
+title: Security Threat Analyzer
+emoji: 🛡️
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.31.0"
+app_file: src/app.py
+pinned: false
+---
+
 # Security Threat Analyzer
 
 An LLM-powered application that automates vulnerability analysis by integrating OpenAI's GPT-4 with the National Vulnerability Database (NVD). Generates role-specific security assessments from CVE data in under 10 seconds.
