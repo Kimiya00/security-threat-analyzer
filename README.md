@@ -1,6 +1,5 @@
 ---
 title: Security Threat Analyzer
-emoji: 🛡️
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
