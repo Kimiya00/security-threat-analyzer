@@ -13,7 +13,7 @@ pinned: false
 
 An LLM-powered application that automates vulnerability analysis by integrating OpenAI's GPT-4 with the National Vulnerability Database (NVD). Generates role-specific security assessments from CVE data in under 10 seconds.
 
-**Live Demo:** [Coming Soon - Hugging Face Spaces]
+**Live Demo:** (https://huggingface.co/spaces/Kimiya00/security-threat-analyzer)
 
 ## Demo
 
@@ -78,7 +78,7 @@ echo "OPENAI_API_KEY=your-key-here" > .env
 streamlit run src/app.py
 ```
 
-Visit `http://localhost:8501` and try analyzing CVE-2024-21762.
+Visit `https://huggingface.co/spaces/Kimiya00/security-threat-analyzer` and try analyzing CVE-2024-21762.
 
 ## Technical Architecture
 
