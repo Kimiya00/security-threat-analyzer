@@ -15,7 +15,6 @@ from utils.visualizations import (
 # Page configuration
 st.set_page_config(
     page_title="Security Threat Analyzer",
-    page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -52,7 +51,7 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1>🛡️ Security Threat Analyzer</h1>
+    <h1>Security Threat Analyzer</h1>
     <p>AI-powered vulnerability analysis with real-time CVE intelligence</p>
 </div>
 """, unsafe_allow_html=True)
